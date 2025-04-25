@@ -1,0 +1,14 @@
+True = \x. \y. x;
+False = \x. \y. y;
+Pair = \x. \y. \z. z x y;
+Splus = \x. Pair False x;
+Pminus = \x. x False;
+Zerois = \x. x True;
+
+zero = \x. x;  
+one = Pair zero;
+two =  Pair False one;
+trhee = Pair False two;
+four = Pair False trhee;
+five = Pair False four;
+six = Pair False five;
