@@ -1,2 +1,6 @@
-# Tarea2teoria
-tarea 2
+Task 2.
+
+Leandro Cardona Martínez.
+
+
+Hello, I´ve created this code using
